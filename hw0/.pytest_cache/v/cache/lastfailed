@@ -1,0 +1,4 @@
+{
+  "tests/test_simple_ml.py::test_parse_mnist": true,
+  "tests/test_simple_ml.py::test_softmax_regression_epoch_cpp": true
+}
